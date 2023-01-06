@@ -23,6 +23,8 @@ Uma pokedéx contendo 20 Pokémons
 
 ## Demonstração
 
+[Link de demonstração](http://projeto.pokedex.luiz.kessler.surge.sh)
+
 ## Para rodar o projeto
 
 ``` bash
